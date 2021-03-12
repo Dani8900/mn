@@ -1,0 +1,24 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{background-size:cover;
+
+ 
+padding:50px ;
+background-attachment:fixed;align-items:center;
+background-size:cover;
+
+}
+body a{margin:5px 5px; 
+padding:5px 5px;
+border-radius: 100px;color:#047681;
+ }
+body a:hover {border:5px solid #339966;
+ color:#339966 ;
+ background-image: url(k1.jpg);}
+ header ul {
+
+list-style-type:none;
+	 
+ }
